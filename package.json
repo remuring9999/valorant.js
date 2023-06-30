@@ -1,5 +1,5 @@
 {
-  "name": "valorant",
+  "name": "@remuring9999/valorant.js",
   "version": "1.0.0",
   "description": "Riotgames 발로란트의 전적 API 일부를 래핑하는 라이브러리입니다.",
   "main": "dist/index.js",
