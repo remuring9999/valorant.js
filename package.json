@@ -7,9 +7,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["valorant", "api", "wrapper", "unofficial"],
+  "author": "remuring9999",
+  "bugs": {
+    "url": "https://github.com/remuring9999/valorant.js/issues"
+  },
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remuring9999/valorant.js.git"
+  },
   "dependencies": {
     "axios": "^1.4.0"
   }
