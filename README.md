@@ -4,10 +4,6 @@
 
 Riotgames 발로란트의 전적 API 일부를 래핑하는 라이브러리입니다.
 
-## Description
-
-기존 레무링 봇에서 사용되는 내부 발로란트 api (vrt-api)를 타입스크립트로 rewrite 하여 작성된 라이브러리입니다.
-
 ## Use
 
 공식적인 API가 아닌 전적조회 서비스 **[dak.gg](https://dak.gg/)** 플랫폼의 API를 리버싱하여 제작된 라이브러리 입니다.  
