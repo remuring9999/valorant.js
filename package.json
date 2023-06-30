@@ -1,0 +1,16 @@
+{
+  "name": "valorant",
+  "version": "1.0.0",
+  "description": "Riotgames 발로란트의 전적 API 일부를 래핑하는 라이브러리입니다.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
