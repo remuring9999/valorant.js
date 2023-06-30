@@ -1,9 +1,9 @@
-const axios = require("axios");
-const fetcher = async (route) => await axios.get(route).then((res) => res.data);
+import axios from "axios";
+const fetcher = async (route: string) => await axios.get(route).then((res) => res.data);
 
 const session = "2de5423b-4aad-02ad-8d9b-c0a931958861";
 
-module.exports = class Valorant {
+export class Valorant {
   static search(query = "") {
     if (query.trim?.().length < 1) throw new Error("Parameter is required.");
     if (!query.includes("#"))
